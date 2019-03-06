@@ -1,0 +1,33 @@
+C:\Users\John\source\repos\Monte Carlo Poker Simulator\Monte Carlo Poker Simulator\obj\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.csprojAssemblyReference.cache
+C:\Users\John\source\repos\Monte Carlo Poker Simulator\Monte Carlo Poker Simulator\obj\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\Monte Carlo Poker Simulator\Monte Carlo Poker Simulator\obj\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\Monte Carlo Poker Simulator\Monte Carlo Poker Simulator\obj\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.AssemblyInfo.cs
+C:\Users\John\source\repos\Monte Carlo Poker Simulator\Monte Carlo Poker Simulator\bin\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.deps.json
+C:\Users\John\source\repos\Monte Carlo Poker Simulator\Monte Carlo Poker Simulator\bin\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.runtimeconfig.json
+C:\Users\John\source\repos\Monte Carlo Poker Simulator\Monte Carlo Poker Simulator\bin\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.runtimeconfig.dev.json
+C:\Users\John\source\repos\Monte Carlo Poker Simulator\Monte Carlo Poker Simulator\bin\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.dll
+C:\Users\John\source\repos\Monte Carlo Poker Simulator\Monte Carlo Poker Simulator\bin\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.pdb
+C:\Users\John\source\repos\Monte Carlo Poker Simulator\Monte Carlo Poker Simulator\obj\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.dll
+C:\Users\John\source\repos\Monte Carlo Poker Simulator\Monte Carlo Poker Simulator\obj\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.pdb
+C:\Users\John\source\repos\Monte_Carlo_Poker_Simulator\Monte Carlo Poker Simulator\obj\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.csprojAssemblyReference.cache
+C:\Users\John\source\repos\Monte_Carlo_Poker_Simulator\Monte Carlo Poker Simulator\obj\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\Monte_Carlo_Poker_Simulator\Monte Carlo Poker Simulator\obj\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\Monte_Carlo_Poker_Simulator\Monte Carlo Poker Simulator\obj\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.AssemblyInfo.cs
+C:\Users\John\source\repos\Monte_Carlo_Poker_Simulator\Monte Carlo Poker Simulator\obj\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.dll
+C:\Users\John\source\repos\Monte_Carlo_Poker_Simulator\Monte Carlo Poker Simulator\obj\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.pdb
+C:\Users\John\source\repos\Monte_Carlo_Poker_Simulator\Monte Carlo Poker Simulator\bin\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.deps.json
+C:\Users\John\source\repos\Monte_Carlo_Poker_Simulator\Monte Carlo Poker Simulator\bin\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.runtimeconfig.json
+C:\Users\John\source\repos\Monte_Carlo_Poker_Simulator\Monte Carlo Poker Simulator\bin\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.runtimeconfig.dev.json
+C:\Users\John\source\repos\Monte_Carlo_Poker_Simulator\Monte Carlo Poker Simulator\bin\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.dll
+C:\Users\John\source\repos\Monte_Carlo_Poker_Simulator\Monte Carlo Poker Simulator\bin\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.pdb
+C:\Users\John\Documents\Programming\Poker-Monte-Carlo\Monte Carlo Poker Simulator\bin\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.deps.json
+C:\Users\John\Documents\Programming\Poker-Monte-Carlo\Monte Carlo Poker Simulator\bin\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.runtimeconfig.json
+C:\Users\John\Documents\Programming\Poker-Monte-Carlo\Monte Carlo Poker Simulator\bin\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.runtimeconfig.dev.json
+C:\Users\John\Documents\Programming\Poker-Monte-Carlo\Monte Carlo Poker Simulator\bin\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.dll
+C:\Users\John\Documents\Programming\Poker-Monte-Carlo\Monte Carlo Poker Simulator\bin\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.pdb
+C:\Users\John\Documents\Programming\Poker-Monte-Carlo\Monte Carlo Poker Simulator\obj\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.csprojAssemblyReference.cache
+C:\Users\John\Documents\Programming\Poker-Monte-Carlo\Monte Carlo Poker Simulator\obj\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\Programming\Poker-Monte-Carlo\Monte Carlo Poker Simulator\obj\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.AssemblyInfoInputs.cache
+C:\Users\John\Documents\Programming\Poker-Monte-Carlo\Monte Carlo Poker Simulator\obj\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.AssemblyInfo.cs
+C:\Users\John\Documents\Programming\Poker-Monte-Carlo\Monte Carlo Poker Simulator\obj\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.dll
+C:\Users\John\Documents\Programming\Poker-Monte-Carlo\Monte Carlo Poker Simulator\obj\Debug\netcoreapp2.0\Monte Carlo Poker Simulator.pdb
